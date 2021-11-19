@@ -1,0 +1,19 @@
+Presentation:
+https://docs.google.com/presentation/d/1YFwm6VPIFZ5u0VT1qApEc3aQjOLpBpOn9QOih-0g7ik/edit?usp=sharing
+
+
+Official Website:
+https://deepnote.com
+
+
+Articles:
+https://techcrunch.com/2020/02/06/deepnote-raises-3-8m-to-build-a-better-data-science-platform/
+https://medium.datadriveninvestor.com/3-reasons-why-deepnote-is-powerful-than-famous-jupyter-notebooks-43aee38419f5
+https://towardsdatascience.com/deepnote-sets-course-to-become-the-jupyter-killer-d0cb6e3ca011
+https://towardsdatascience.com/deepnote-a-collaborative-framework-for-your-python-notebooks-99390a6766e9
+
+Video Review:
+https://www.youtube.com/watch?v=9Ot78EHfLNE
+
+Deepnote Official Youtube:
+https://www.youtube.com/channel/UCSAFgwuPpIiTamG8INQWQ1A
